@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I’m Luana Pinheiro 👋  
+ Welcome to my GitHub profile!
 
-<!--
-**lucarolsp/lucarolsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a Data Analyst transitioning into Business Intelligence and Data Science <br>
+📊 I work with Python, SQL, Databases, R, Excel, Power BI, and DAX, applying my skills in practical projects <br>
+📚 I have a strong foundation in Statistics and am deepening my knowledge in BI and Data Science <br>
+📊 With a Bachelor’s and Master’s in Science, I bring analytical thinking and scientific problem-solving to my work <br>
+👩‍💻​ I’m continuously learning and actively seeking opportunities in the data field <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div style="display:inline-block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" width="60"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="50" width="60"/>
+</div>
+
+
+## 🌐 Redes Sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucarol.sp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucarolsp) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucarolsp5@gmail.com)
+
+
+
+
+
+
